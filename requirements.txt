@@ -1,0 +1,4 @@
+pyautogui
+streamlit
+pillow
+fpdf
